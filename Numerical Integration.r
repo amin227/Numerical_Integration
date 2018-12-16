@@ -1,4 +1,3 @@
-
 library (matlib)
 
 trapezoid <- function(f, a, b){
